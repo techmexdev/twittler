@@ -1,0 +1,47 @@
+
+.tweet {
+	border : 2px solid black;
+	height: 100%;
+	width: 400px;
+	background-color: black;
+	color: mediumorchid;
+	margin-left: 900px;
+	margin-bottom: 30px;
+	font-size: 110%;
+}
+.user {
+	width:100%;
+	text-align: left;
+	color: black;
+	font-size: 110%;
+	background-color: lightblue;
+}
+body {
+	background-image: url('swing.jpg');
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.leftBar {
+	position: fixed;
+	left:0; top:92px; bottom: 92px;
+	width: 200px;
+	background: purple;
+	color:black;
+	font-size: 150%;
+	text-align: center;
+}
+.icon {
+	width: 50%;
+	height: 100px;
+	float:right;
+	padding-right: 50px;
+}
+
+.friends {
+	font-size: 80%;
+	color: lightblue;
+	padding-top: 50px;
+}
